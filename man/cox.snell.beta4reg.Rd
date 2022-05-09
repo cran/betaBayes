@@ -45,7 +45,7 @@ the \code{ngrid} by \code{nsave} cumulative hazard values
 }
 
 \author{
-Haiming Zhou \email{<zhouh@niu.edu>} and Xianzheng Huang \email{<huang@stat.sc.edu>}
+Haiming Zhou and Xianzheng Huang
 }
 
 

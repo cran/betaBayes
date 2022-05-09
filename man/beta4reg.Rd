@@ -131,16 +131,15 @@ A table that presents the posterior summaries for the precision phi.
 }
 
 \references{
-Zhou, H. and Huang, X. (2021). Bayesian beta regression for bounded responses with unknown supports. Submitted. 
+Zhou, H. and Huang, X. (2022). Bayesian beta regression for bounded responses with unknown supports. \emph{Computational Statistics & Data Analysis}, 167, 107345.
 }
 
 \author{
-Haiming Zhou \email{<zhouh@niu.edu>} and Xianzheng Huang \email{<huang@stat.sc.edu>}
+Haiming Zhou and Xianzheng Huang
 }
 
 \examples{
 library(betaBayes)
-library(coda)
 library(betareg)
 
 ## Data from Ferrari and Cribari-Neto (2004)

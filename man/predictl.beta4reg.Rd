@@ -28,7 +28,7 @@ The function returns an m by nsave matrix of posterior samples for response pred
 }
 
 \author{
-Haiming Zhou \email{<zhouh@niu.edu>} and Xianzheng Huang \email{<huang@stat.sc.edu>}
+Haiming Zhou and Xianzheng Huang
 }
 
 
